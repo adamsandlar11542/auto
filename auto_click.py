@@ -5,8 +5,6 @@ import os
 from os import listdir
 import time
 
-from sympy import imageset
-
 
 list_img = ['link1.png','link2.png','link3.png','link4.png']
 # # folder_dir = "./images" 
