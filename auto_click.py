@@ -30,9 +30,9 @@ def autoclick():
         pg.click()
         time.sleep(3)
         for i in range(10):
-            pg.scroll(-100)
+            pg.scroll(-50)
             time.sleep(1)
-            pg.scroll(100)
+            pg.scroll(30)
         time.sleep(5)
         pg.hotkey('alt', 'left')
         time.sleep(3)
