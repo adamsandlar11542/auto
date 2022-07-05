@@ -9,7 +9,7 @@ pip install browser
 
 pip install pyautogui
 
-And then run
+/And then run
 
 python auto_click.py
 
